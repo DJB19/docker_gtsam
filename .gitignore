@@ -1,0 +1,3 @@
+gtsam_local/
+*.tar
+build/
